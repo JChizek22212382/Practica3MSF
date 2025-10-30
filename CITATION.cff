@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MathLAB, SPYDER'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Josue
+    family-names: Chizek
+    email: L22212382@tectijuana.edu.mx
+    affiliation: Tec-NM-ITT
+repository-code: 'https://github.com/JChizek22212382/Practica3MSF'
+keywords:
+  - Modelo muscolo-mecanico
+  - Controlador PI
+  - Modelo matemático
+  - Simulación numérica
+  - Sistema musculoesqueletico
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-30'
