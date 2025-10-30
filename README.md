@@ -1,10 +1,9 @@
-\[!\[Open in MATLAB Online]
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=JChizek22212382/Practica3MSF)
 # Práctica: Sistema musculoesquelético
 
 ## Información del estudiante
 
-Josué Chizek Espinoza \[22212382]; L22212382a@tectijuana.edu.mx
+Josué Chizek Espinoza \[22212382]; L22212382@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
