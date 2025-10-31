@@ -52,7 +52,7 @@ plt.plot(t,Fs2,'-',linewidth = 1, color =[0.114,0.208,0.341],label='Fs2(t):Caso'
 
 plt.grid(False) #Para poner una cuadricula en la grafica
 plt.xlim(0,10); plt.xticks(np.arange(0,11,1))
-plt.ylim(-0.6,1.4); plt.yticks(np.arange(-0.6,1.6,0.2))
+plt.ylim(-0.2,1.2); plt.yticks(np.arange(-0.2,1.2,0.2))
 plt.xlabel('t[s]')
 plt.ylabel('Fs[V]')
 plt.legend(bbox_to_anchor = (0.5,-0.2),loc = 'center', ncol = 3)
@@ -83,7 +83,7 @@ plt.plot(t,Fs2,'-',linewidth = 1, color =[0.114,0.208,0.341],label='Fs2(t):Caso'
 plt.plot(t,Fs3,':',linewidth = 1.5, color =[0.271,0.482,0.616],label='Fs3(t):Tratamiento')
 plt.grid(False) #Para poner una cuadricula en la grafica
 plt.xlim(0,10); plt.xticks(np.arange(0,11,1))
-plt.ylim(-0.6,1.4); plt.yticks(np.arange(-0.6,1.6,0.2))
+plt.ylim(-0.2,1.2); plt.yticks(np.arange(-0.2,1.2,0.2))
 plt.xlabel('Pp(t)[V]')
 plt.ylabel('t[s]')
 plt.legend(bbox_to_anchor = (0.5,-0.2),loc = 'center', ncol = 3)
